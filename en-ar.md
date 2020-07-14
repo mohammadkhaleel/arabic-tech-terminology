@@ -12,8 +12,8 @@ Concatenation | جمع
 Constructor | مُشيّد |
 Controller | متحكّم
 Cookie | كعكة
-Deployment | نشر
-Encryption | تعمية
+Deployment | نشر | تعين
+Encryption |تعمية | تشفير
 Function | دالة
 Hashing | تجزئة
 Header | ترويسة
